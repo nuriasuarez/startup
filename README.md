@@ -17,6 +17,18 @@ startup
 * grey: #f5f5f5
 * Text color: white and black
 
+## Font used
+1.*Shadows Into Light Two* : http://fonts.googleapis.com/css?family=Shadows+Into+Light+Two
+  * Code to include the font family
+  `<link href="http://fonts.googleapis.com/css?family=Shadows+Into+Light+Two" rel="stylesheet" type="text/css">`
+  * Code to use the font family
+  `font-family: 'Shadows Into Light Two', sans-serif;`
+2.*Shadows Into Light Two* : http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz
+  * Code to include the font family
+  `<link href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz" rel="stylesheet" type="text/css">`
+  * Code to use the font family
+  ` font-family: 'Yanone Kaffeesatz', sans-serif;`
+
 ## Content
 # HTML5 Boot Camp
 ## Building Mobile Web Experiences
