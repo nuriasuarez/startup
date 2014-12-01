@@ -1,5 +1,11 @@
 startup
 =======
+## Web site design
+#### Wide viewport
+![Wide viewport](/00-HTML-CSS-basics/design/desktop.png)
+
+#### Narrow viewport
+![Narrow viewport](/00-HTML-CSS-basics/design/small.png)
 
 ## Color used
 * orange: ##E44D27
