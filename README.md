@@ -1,5 +1,9 @@
 startup
 =======
+
+Below you can find all the resources to create your first web page. Also this repository contains the images that you need: logos, hero and others.
+
+
 ## Web site design
 #### Wide viewport
 ![Wide viewport](/00-HTML-CSS-basics/design/desktop.png)
@@ -23,6 +27,7 @@ startup
   `<link href="http://fonts.googleapis.com/css?family=Shadows+Into+Light+Two" rel="stylesheet" type="text/css">`
   * Code to use the font family
   `font-family: 'Shadows Into Light Two', sans-serif;`
+
 2.*Shadows Into Light Two* : http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz
   * Code to include the font family
   `<link href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz" rel="stylesheet" type="text/css">`
