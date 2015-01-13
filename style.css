@@ -2,11 +2,7 @@ body {
 	margin: 0;
 }
 
-@media screen and (max-width:750px) {
 
-
-
-}
 
 .contenedor {
     margin: auto;
@@ -202,3 +198,33 @@ footer {
 }
 
 
+@media screen and (max-width:780px) {
+
+	.logo, header nav {
+		float:none;
+		clear:both;
+	}
+	.contenedor {
+		width: 95%;
+	}
+
+}
+
+@media screen and (max-width:450px) {
+
+	.logo, header nav {
+		float:none;
+		clear:both;
+	}
+	.contenedor {
+		width: 95%;
+	}
+
+	.rightFloat,.leftFloat {
+	box-sizing: border-box;
+	float: none;
+	width: 100%;
+
+	}
+
+}
